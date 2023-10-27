@@ -1,0 +1,10 @@
+h5{
+    text-align: center;
+}
+.card{
+    margin-top:50%;
+    left:100%;
+    width: 435;
+    padding: 31px 40px;
+    transform: translate(-50%, -50%);
+}

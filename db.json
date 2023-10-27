@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "name": "shailesh",
+      "email": "shailesh@gmail.com",
+      "city": "banglore",
+      "pincode": 360057,
+      "phonenumber": 955555551330,
+      "id": 1
+    },
+    {
+      "name": "swati",
+      "email": "swati@gmail.com",
+      "city": "kalyan",
+      "pincode": 421306,
+      "phonenumber": 9988776543,
+      "id": 2
+    },
+    {
+      "name": "rinku",
+      "email": "rinku@gmail.com",
+      "city": "mumbai",
+      "pincode": 421306,
+      "phonenumber": 8767545678,
+      "id": 3
+    },
+    {
+      "name": "kavita",
+      "email": "kavita@gmail.com",
+      "city": "delhi",
+      "pincode": 234566,
+      "phonenumber": 9087678778,
+      "id": 4
+    }
+  ]
+}
